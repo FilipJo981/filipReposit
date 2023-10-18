@@ -69,6 +69,3 @@ else:
     print("Du har under 21 poäng")
 
 print("Done!")
-
-print("hej")
-#hejhej
